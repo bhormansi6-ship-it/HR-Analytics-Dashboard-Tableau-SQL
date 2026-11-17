@@ -1,5 +1,4 @@
-# 👥 HR Analytics Dashboard (Tableau)
-
+# 👥 HR Analytics Dashboard (Tableau & SQL)
 An interactive HR analytics dashboard built in Tableau, visualizing employee headcount, salary, working hours, leaves, job roles and locations to support data-driven workforce decisions.
 
 ## 📌 Project Overview
