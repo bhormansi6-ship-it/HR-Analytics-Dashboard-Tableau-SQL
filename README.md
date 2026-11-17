@@ -26,12 +26,10 @@ This project analyzes employee data stored in a MySQL database and presents key 
 
 ## 🛠️ Tools & Techniques
 - Tableau Desktop
-- MySQL (data source)
+- MySQL (data source, SQL queries)
 - Calculated fields for KPIs
 - Interactive dashboard design
 
-## 🖼️ Dashboard Preview
-![HR Dashboard](dashboard.png)
 
 ## 📁 How to Use
 1. Download `HR-Dashboard.twb` from this repository.
